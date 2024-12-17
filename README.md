@@ -1,5 +1,7 @@
 # Quick downloader client
 
+![example workflow](https://github.com/mi-qacker/quick-downloader/actions/workflows/ci.yml/badge.svg)
+
 ## Description
 
 The Quick downloader client project is a web application for quickly
